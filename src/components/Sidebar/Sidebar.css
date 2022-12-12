@@ -1,0 +1,14 @@
+.sidebar {
+   position: relative;
+   width: 300px;
+   min-height: 100vh;
+   left: 0;
+   top: 0;
+   background-color: #fff;
+}
+
+.logo {
+   height: 70px;
+   width: 100%;
+   background-color: darkblue;
+}
