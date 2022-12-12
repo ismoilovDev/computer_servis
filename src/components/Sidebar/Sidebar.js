@@ -8,7 +8,7 @@ function Sidebar() {
    return (
       <div className='sidebar'>
          <div className='logo'>
-            Logo
+            Computer
          </div>
          <div className='routers'>
             <div className='route'>
